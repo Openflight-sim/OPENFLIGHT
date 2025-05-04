@@ -43,8 +43,8 @@ OpenFlight is a flight simulator project featuring a Julia backend for physics s
 7.  Flight data is logged to a CSV file by the Julia backend during the specified time interval.
 
 
-OpenFlight Simulator - Installation Guide for Development
-This guide will walk you through setting up the OpenFlight simulator project on your local machine for development purposes.
+# OpenFlight Simulator - Installation Guide for Development
+## This guide will walk you through setting up the OpenFlight simulator project on your local machine for development purposes.
 
 1. Prerequisites
 Operating System: Windows, macOS, or Linux. Instructions may vary slightly depending on your OS.
